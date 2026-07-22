@@ -131,6 +131,9 @@ weights/
 checkpoints/
 sam3_logs/
 
+# Local run outputs
+outputs/
+
 # Data files
 *.h5
 *.hdf5
